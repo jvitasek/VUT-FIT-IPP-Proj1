@@ -1,5 +1,4 @@
 # VUT-FIT-IPP-Proj1
-<<<<<<< HEAD
 The script carries out processing an input query similar to the SELECT command of SQL on an input file/stdin formatted in XML. The output is an XML file or XML outputted to stdout.
 
 Usage:<br>
@@ -13,5 +12,3 @@ Usage:<br>
 
 # Example:
 <pre>php xqr.php --input=input.xml --query="SELECT book FROM library" --output=test.out --root=Wrapper</pre>
-=======
->>>>>>> 38528a6d30f62c0768f24218b3601c3413c0f7d5
